@@ -24,13 +24,13 @@ function Widgets() {
 
                 <TwitterTimelineEmbed 
                     sourceType = "profile"
-                    screenName = "akky_im"
+                    screenName = "Vrinda"
                     options = {{ height: 400 }}
                 />
 
                 <TwitterShareButton 
-                    url = {"https://facebook.com/akkyProjects"}
-                    options = { { text : "Subscribe my Youtube Channel #CodeWithAkky" , via :  "akkyProjects" }}
+                    url = {"https://www.facebook.com/vrinda.gaur.75/"}
+               //     options = { { text : "" , via :  "" }}
                />
             </div>
         </div>
